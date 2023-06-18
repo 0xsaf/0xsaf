@@ -1,4 +1,6 @@
-### Hi there 👋
+### My Skills😄
+[![My Skills](https://skillicons.dev/icons?i=python,figma&theme=light)](https://skillicons.dev) <br /><br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xsaf&show_icons=true&theme=radical)
 
 <!--
 **0xsaf/0xsaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
